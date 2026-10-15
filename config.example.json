@@ -1,0 +1,27 @@
+{
+  "provider": "xyq",
+  "displayName": "小云雀 Pippit",
+  "apiKey": "这里填写你自己的 API Key / PUT-YOUR-OWN-API-KEY-HERE",
+  "baseUrl": "https://xyq.jianying.com",
+  "notes": [
+    "小云雀 Pippit —— 非官方第三方适配器，与字节跳动 / 剪映 / 小云雀无关。",
+    "apiKey 是占位符，请替换成你自己的 Access Key。",
+    "Access Key 获取地址：https://xyq.jianying.com -> CLI/API -> API",
+    "真正使用时不用改这个文件，它只是一份配置参考。"
+  ],
+  "examples": {
+    "generateVideo": {
+      "model": "Seedance_2.0_mini_lite",
+      "prompt": "A ginger cat chasing butterflies in a sunny garden",
+      "duration": 5,
+      "resolution": "720p",
+      "ratio": "16:9"
+    },
+    "generateImage": {
+      "model": "gpt_image_2_5_flare",
+      "prompt": "Cyberpunk city at night, neon reflections on wet streets",
+      "size": "2K",
+      "ratio": "16:9"
+    }
+  }
+}

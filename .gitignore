@@ -1,0 +1,17 @@
+# 本地配置与密钥
+config.json
+config.local.json
+*.key
+.env
+
+# 备份 / 临时文件
+*.bak
+*.bak-*
+*.disabled
+*.tmp
+_坏文件备份/
+_removed-from-repo/
+
+# 编辑器
+.vscode/
+.idea/
