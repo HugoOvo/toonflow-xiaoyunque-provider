@@ -10,7 +10,7 @@
 [![Version](https://img.shields.io/badge/version-2.5.0-1f6feb.svg)](#)
 [![Platform](https://img.shields.io/badge/platform-Toonflow-8957e5.svg)](#)
 [![Models](https://img.shields.io/badge/models-16-f8d34a.svg)](#-支持的模型)
-[![Official](https://img.shields.io/badge/%E9%9D%9E%E5%AE%98%E6%96%B9-unofficial-d1242f.svg)](#-免责声明-disclaimer)
+[![Official](https://img.shields.io/badge/%E9%9D%9E%E5%AE%98%E6%96%B9-unofficial-d1242f.svg)](#免责声明请先读)
 
 [功能](#-能做什么) · [安装](#-安装) · [操作](#-怎么用) · [模型](#-支持的模型) · [注意](#-注意事项) · [FAQ](#-常见问题) · [English](#english)
 
@@ -19,7 +19,7 @@
 ---
 
 > [!WARNING]
-> ## ⚠️ 免责声明（请先读）
+> ## 免责声明（请先读）
 >
 > **本项目是「小云雀」（字节跳动 / 剪映 / Pippit）的第三方非官方适配器，与字节跳动、剪映、小云雀官方没有任何关系，也不是官方发布的。**
 >
